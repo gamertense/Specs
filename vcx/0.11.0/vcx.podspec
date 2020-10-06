@@ -29,7 +29,8 @@ The Initial mobile app on the iOS platform will call into the libvcx shared libr
 from Objective-C.
                    DESC
 
-  spec.homepage     = "http://www.github.com/sktston"
+  spec.homepage     = "http://www.github.com/gamertense"                   
+  # spec.homepage     = "http://www.github.com/sktston"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
